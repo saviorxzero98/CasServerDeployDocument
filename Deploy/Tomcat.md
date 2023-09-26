@@ -91,7 +91,7 @@ keytool -genkey -alias "<Your WebApp Name>" -keyalg RSA -keystore server.keystor
 
 * 輸入 keystore  密碼，並且填寫一些問題
 
-![Keystore](Keystore.png) 
+![Keystore](../images/Keystore.png) 
 
 * 最後會產生一個 keystore 檔案
 
